@@ -1,2 +1,3 @@
 # hello-world
-get started
+
+I am going to build a website for my new company
